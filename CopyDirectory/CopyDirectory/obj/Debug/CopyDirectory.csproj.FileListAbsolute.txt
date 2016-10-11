@@ -1,0 +1,8 @@
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Form1.resources
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Properties.Resources.resources
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csproj.GenerateResource.Cache
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe.config
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.pdb
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.exe
+C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
