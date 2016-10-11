@@ -1,0 +1,8 @@
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\bin\Release\CopyDirectory.exe.config
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\bin\Release\CopyDirectory.exe
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\bin\Release\CopyDirectory.pdb
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.Form1.resources
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.Properties.Resources.resources
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.csproj.GenerateResource.Cache
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.exe
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.pdb
