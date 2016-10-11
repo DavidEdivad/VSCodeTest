@@ -6,3 +6,11 @@ C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\bin\Debug\CopyD
 C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.pdb
 C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.exe
 C:\Users\Davide\Desktop\PraticalTest\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe.config
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.exe
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.pdb
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Form1.resources
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Properties.Resources.resources
+C:\Git_Local_Repository\DirCopy\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csproj.GenerateResource.Cache
