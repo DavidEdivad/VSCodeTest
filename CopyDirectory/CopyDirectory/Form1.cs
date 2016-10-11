@@ -51,7 +51,7 @@ namespace CopyDirectory
             this.listBox1.Items.Add(item);
             this.listBox1.Refresh();
 
-            var i = 0;
+           
         }
 
     }
