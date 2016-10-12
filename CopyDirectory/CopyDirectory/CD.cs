@@ -12,7 +12,7 @@ namespace CopyDirectory
     public class CD 
     {
         public delegate void dgEventRaiser(string item);
-        public event dgEventRaiser OnCopyItemReached;
+        public event dgEventRaiser OnCopyItem;
 
         public void CopyDirectory(string Source, string Destination)
         {
@@ -34,12 +34,12 @@ namespace CopyDirectory
             {
                 if (Directory.Exists(item))
                 {
-                    OnCopyItemReached(item); 
+                    OnCopyItem(item); 
                     CopyDirectory(item, Destination + Path.GetFileName(item));                                                         
                 }
                 else
                 {
-                    OnCopyItemReached(item); 
+                    OnCopyItem(item); 
                     File.Copy(item, Destination + Path.GetFileName(item), true);                    
                 }
             }

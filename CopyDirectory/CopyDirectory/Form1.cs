@@ -20,7 +20,7 @@ namespace CopyDirectory
             InitializeComponent();
 
             cd = new CD();
-            cd.OnCopyItemReached += new CD.dgEventRaiser(a_AddtToListBox);            
+            cd.OnCopyItem += new CD.dgEventRaiser(a_AddtToListBox);            
         }
                 
         private void btnCopy_Click(object sender, EventArgs e)
@@ -49,9 +49,7 @@ namespace CopyDirectory
         public void a_AddtToListBox(string item)
         {
             this.listBox1.Items.Add(item);
-            this.listBox1.Refresh();
-
-           
+            this.listBox1.Refresh();           
         }
 
     }
