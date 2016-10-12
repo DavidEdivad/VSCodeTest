@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CopyDirectory
 {
-    #region primo
+    #region CLASS COPY DIRECTORY
 
     public class CD 
     {
@@ -45,7 +45,6 @@ namespace CopyDirectory
             }
 
         }
-
     }
     #endregion
 
